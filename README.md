@@ -23,3 +23,13 @@ Mąż zaufania ma prawo:
 + PIT-y można składać przez internet. 
 + Wpisać się na listę wyborców można przez internet przez profil zaufany.
 + Oddać głosu nie można online ...
+
+
+## Pytania
+
++ jakie są szykowane zmiany w prawie, które mogą mieć wpływ na architekturę systemu aplikacji?
++ jakie są metody uzyskania odpowiednich pozwoleń na działanie aplikacji zapisującej Imię i Nazwisko w różnych krajach świata/europy?
++ W jaki sposób prawnie zabezpieczyć twórców aplikacji przed represją z różnych stron, gdyby okazało się, że zostałyby udowdnione nieprawidłowości?
++ Jakie są kolejne kroki w momencie gdy są udowodnione nieprawidłowości?
++ Jakie biuro prawne i jacy sędziowie mogą pomóc/zaszkodzić?
+
