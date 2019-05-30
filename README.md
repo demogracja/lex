@@ -33,3 +33,4 @@ Mąż zaufania ma prawo:
 + Jakie są kolejne kroki w momencie gdy są udowodnione nieprawidłowości?
 + Jakie biuro prawne i jacy sędziowie mogą pomóc/zaszkodzić?
 
++ Co w przypadku udowodnionych fałszerstw, czy nawet jeśli sąd uzna, że fałszerstwo wystąpiło, jaki to będzie miało skutek?
